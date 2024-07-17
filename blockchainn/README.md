@@ -1,4 +1,4 @@
-```markdown
+
 # Simple Blockchain Implementation in JavaScript
 
 This repository contains a basic implementation of a blockchain written in JavaScript. The code demonstrates key blockchain concepts such as block creation, proof of work, and chain validation.
@@ -8,7 +8,7 @@ This repository contains a basic implementation of a blockchain written in JavaS
 - **Block Creation**: Create new blocks with specific data.
 - **Proof of Work**: Implement a basic proof of work algorithm.
 - **Chain Validation**: Ensure the integrity of the blockchain by validating the entire chain.
-```
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your machine.
