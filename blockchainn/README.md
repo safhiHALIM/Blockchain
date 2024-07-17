@@ -8,14 +8,14 @@ This repository contains a basic implementation of a blockchain written in JavaS
 - **Block Creation**: Create new blocks with specific data.
 - **Proof of Work**: Implement a basic proof of work algorithm.
 - **Chain Validation**: Ensure the integrity of the blockchain by validating the entire chain.
-
+```
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your machine.
 
 ## Installation
 
-1. Clone the repository:
+2. Clone the repository:
 
    ```bash
    git clone https://github.com/safhiHALIM/Blockchain.git
