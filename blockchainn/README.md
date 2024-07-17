@@ -1,5 +1,3 @@
-Sure, here's a `README.md` file for the provided script:
-
 ```markdown
 # Simple Blockchain Implementation in JavaScript
 
